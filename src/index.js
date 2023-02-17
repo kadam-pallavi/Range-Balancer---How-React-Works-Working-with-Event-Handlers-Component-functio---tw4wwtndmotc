@@ -1,7 +1,3 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import App from "./components/App";
-
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 
@@ -15,6 +11,3 @@ root.render(
     <App />
   </StrictMode>
 );
-
-
-
